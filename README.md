@@ -1,5 +1,10 @@
 ### Hi there 👋
+### Contact me
 
+- [Telegram](https://t.me/CuiPlus)
+- <cui2421011864@gmail.com>
+
+![Achirou's github stats](https://github-readme-stats-xi-nine.vercel.app/api?username=cuijianzhuang&show_icons=true&theme=default&count_private=true)
 <!--
 **cuijianzhuang/cuijianzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
