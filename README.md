@@ -4,7 +4,7 @@
 - [Telegram](https://t.me/CuiPlus)
 - <cui2421011864@gmail.com>
 
-![Achirou's github stats](https://github-readme-stats-git-master.cui2421011864.vercel.app//api?username=cuijianzhuang&show_icons=true&theme=default&count_private=true)
+[![Anurag's github stats](https://github-readme-stats-six-theta.vercel.app//api?username=cuijianzhuang)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cuijianzhuang/cuijianzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
