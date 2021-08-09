@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Contact me
 
-- [Telegram](https://t.me/CuiPlus)
+- [Telegram](https://t.me/cuiplus)
 - <cui2421011864@gmail.com>
 
 
