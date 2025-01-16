@@ -2,7 +2,7 @@
 
 <div>
 
-<a href="https://voidm.com/" target="_blank"><img align="right"  width="400px" src="./developer-github.gif"  /></a>
+<a target="_blank"><img align="right"  width="400px" src="./developer-github.gif"  /></a>
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
 
 
