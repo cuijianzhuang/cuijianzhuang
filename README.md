@@ -19,8 +19,5 @@
 
 <p align="left"> <a href="https://twitter.com/cuijianzhuang" target="blank"><img src="https://img.shields.io/twitter/follow/cuijianzhuang?logo=twitter&style=for-the-badge" alt="cuijianzhuang" /></a> </p>
 
-- 🌱 I’m currently learning **spring**
-
-- 💬 Ask me about **java**
 
 - 📫 How to reach me **cui2421011864@gmail.com**
